@@ -54,11 +54,11 @@ The goal of this project is to help beginners learn how to build REST APIs, stru
 git clone https://github.com/lelixn/github-user-activity.git
 cd github-user-activity
 ```
-###2️⃣ Install Dependencies
+2️⃣ Install Dependencies
 ```
 npm install
 ```
-###3️⃣ Start the Server
+3️⃣ Start the Server
 ```
 node server.js
 ```
